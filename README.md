@@ -1,6 +1,17 @@
 # jonspass
 
-a minimal password generator
+mashing up a basic password generator
+
+## pipeline 
+
+- allow variation of character count
+- (dis)allow certain kinds of characters
+  - (dis)allow special characters
+  - (dis)allow uppercase or lowercase letters
+  - (dis)allow numbers
+- "must have at least this, that and beyond" options
+- special animation effects
+- t-shirts and mugs
 
 ## installation
 
